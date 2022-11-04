@@ -8,6 +8,6 @@
 [labs](labs/)
 {% endcontent-ref %}
 
-{% content-ref url="quizzes.md" %}
-[quizzes.md](quizzes.md)
+{% content-ref url="quizzes/" %}
+[quizzes](quizzes/)
 {% endcontent-ref %}
