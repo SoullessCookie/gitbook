@@ -1,6 +1,6 @@
 # Module 12 Review Quiz
 
-1.  You are planning an upgrade from Windows 8.1 to Windows 10. Your system uses a network card that you don't find on the Microsoft Windows 10 list of compatible devices. What do you do next?
+1.  You are planning an upgrade from Windows 8.1 to Windows 10. Your system uses a network card that you don't find on the Microsoft Windows 10 list of compatible devices. What do you do next?&#x20;
 
     **Check the website of the network card manufacturer for a Windows 10 driver.**
 2. You have just installed Windows 10 and now want to install your favorite game that worked fine under Windows 8.1. When you attempt the installation, you get an error. What is your best next step?\
